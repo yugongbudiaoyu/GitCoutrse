@@ -8,3 +8,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 add merge
 I don`t konw.
+try to practice git
